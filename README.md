@@ -35,7 +35,7 @@ In a separate terminal execute:
 ![Home Page](images/HomePage.png)
 ![sample1](images/Sample1.png)
 
-## Connection
+## Connection (Metamask Supported)*
 ![Metamask](images/Metamask-Connection.png)
 
 ## Transaction
